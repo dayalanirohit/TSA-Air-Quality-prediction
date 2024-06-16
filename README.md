@@ -28,4 +28,5 @@ Attribute information:
 14. Absolute Humidity (AH)
 
 I 've use ARIMA model to predcict the hourly averaged concentrations of air pollutants .
+To use the model , visit "https://tsa-1.onrender.com/"
 
